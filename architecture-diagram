@@ -1,0 +1,9 @@
+This project demonstrates the deployment of a scalable and secure Multi-Tier Web Application on AWS using:
+
+- VPC
+- Public and Private Subnets
+- Application Load Balancer (ALB)
+- EC2 Instances
+- RDS MySQL
+- Auto Scaling
+- Security Groups
